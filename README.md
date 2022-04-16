@@ -5,17 +5,13 @@ by Yicheng Wu, Zongyuan Ge, Donghao Zhang, Minfeng Xu, Lei Zhang, Yong Xia, and 
 Codes will be released soon
 
 ### Introduction
-
 This repository is for our paper '[Mutual Consistency Learning for Semi-supervised Medical Image Segmentation](https://arxiv.org/pdf/2109.09960.pdf)'. 
 
 
 ### Installation
 This repository is based on PyTorch 1.8.0.
 
-### Usage
-
 ### Citation
-
 If our model is useful for your research, please consider citing:
 
       @inproceedings{wu2021semi,
@@ -32,7 +28,7 @@ If our model is useful for your research, please consider citing:
         journal={arXiv preprint arXiv:2109.09960},
         year={2021}
         }
+        
 ### Questions
-
 Please contact 'ycwueli@gmail.com'
 
