@@ -1,7 +1,7 @@
 # Mutual Consistency Learning for Semi-supervised Medical Image Segmentation
-by Yicheng Wu, Zongyuan Ge, Donghao Zhang, Minfeng Xu, Lei Zhang, Yong Xia, and Jianfei Cai. 
+by Yicheng Wu*, Zongyuan Ge, Donghao Zhang, Minfeng Xu, Lei Zhang, Yong Xia, and Jianfei Cai. 
 # Semi-supervised Left Atrium Segmentation with Mutual Consistency Training
-by Yicheng Wu, Minfeng Xu, Zongyuan Ge, Jianfei Cai, and Lei Zhang.
+by Yicheng Wu, Minfeng Xu, Zongyuan Ge, Jianfei Cai*, and Lei Zhang.
 
 ### News
 ```
