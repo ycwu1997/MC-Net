@@ -16,27 +16,25 @@ This repository is based on PyTorch 1.8.0, CUDA 11.2 and Python 3.8.10;
 
 ### Usage
 1. Clone the repo.;
-'''
+```
 git clone https://github.com/ycwu1997/MC-Net.git
-'''
+```
 2. Put the data in 'MC-Net/data';
 
 3. Train the model
-'''
+```
 e.g.
 cd MC-Net
 # for 10% labels
 python ./code/train_mcnet_3d.py --dataset_name LA --model mcnet3d_v2 --labelnum 8 --gpu 0 --temperature 0.1
-#
-'''
+```
 4. Test the model
-'''
+```
 e.g.
 cd MC-Net
 # for 10% labels
 python ./code/test_3d.py --dataset_name LA --model mcnet3d_v2 --exp MCNet --labelnum 16 --gpu 0
-#
-'''
+```
 
 ### Citation
 If our MC-Net+ model is useful for your research, please consider citing:
