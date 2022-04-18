@@ -26,13 +26,13 @@ git clone https://github.com/ycwu1997/MC-Net.git
 3. Train the model;
 ```
 cd MC-Net
-# e.g., for 10% labels
-python ./code/train_mcnet_3d.py --dataset_name LA --model mcnet3d_v2 --labelnum 8 --gpu 0 --temperature 0.1
+# e.g., for 20% labels
+python ./code/train_mcnet_3d.py --dataset_name LA --model mcnet3d_v2 --labelnum 16 --gpu 0 --temperature 0.1
 ```
 4. Test the model;
 ```
 cd MC-Net
-# e.g., for 10% labels
+# e.g., for 20% labels
 python ./code/test_3d.py --dataset_name LA --model mcnet3d_v2 --exp MCNet --labelnum 16 --gpu 0
 ```
 
