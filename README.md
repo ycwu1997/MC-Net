@@ -13,7 +13,7 @@ by Yicheng Wu, Minfeng Xu, Zongyuan Ge, Jianfei Cai, and Lei Zhang.
 ### Introduction
 This repository is for our paper: '[Mutual Consistency Learning for Semi-supervised Medical Image Segmentation](https://arxiv.org/pdf/2109.09960.pdf)'. Note that, the MC-Net+ model is named as mcnet3d_v2 in our codes. At the same time, we also provide the mcnet2d_v1 and mcnet3d_v1 similar to MC-Net in MICCAI 2021: '[Semi-supervised Left Atrium Segmentation with Mutual Consistency Training](https://doi.org/10.1007/978-3-030-87196-3_28)'.
 
-### Installation
+### Requirements
 This repository is based on PyTorch 1.8.0, CUDA 11.2 and Python 3.8.10;
 
 ### Usage
