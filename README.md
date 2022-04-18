@@ -4,10 +4,12 @@ by Yicheng Wu, Zongyuan Ge, Donghao Zhang, Minfeng Xu, Lei Zhang, Yong Xia, and 
 by Yicheng Wu, Minfeng Xu, Zongyuan Ge, Jianfei Cai, and Lei Zhang.
 
 ### News
-
+```
 <18.04.2022> We provided our pre-trained models on the LA, Pancreas-CT and ACDC datasets, see 'MC-Net/pretrained';
-<16.04.2022> We uploaded the codes;
-
+```
+```
+<16.04.2022> We released the codes;
+```
 ### Introduction
 This repository is for our paper: '[Mutual Consistency Learning for Semi-supervised Medical Image Segmentation](https://arxiv.org/pdf/2109.09960.pdf)'. Note that, the MC-Net+ model is named as mcnet3d_v2 in our codes. At the same time, we also provide the mcnet2d_v1 and mcnet3d_v1 similar to MC-Net in MICCAI 2021: '[Semi-supervised Left Atrium Segmentation with Mutual Consistency Training](https://doi.org/10.1007/978-3-030-87196-3_28)'.
 
