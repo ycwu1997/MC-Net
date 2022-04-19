@@ -5,7 +5,7 @@ by Yicheng Wu, Minfeng Xu, Zongyuan Ge, Jianfei Cai*, and Lei Zhang.
 
 ### News
 ```
-<18.04.2022> We provided our pre-trained models on the LA, Pancreas-CT and ACDC datasets, see './code/pretrained_pth/';
+<18.04.2022> We provided our pre-trained models on the LA, Pancreas-CT and ACDC datasets, see './MC-Net/pretrained_pth/';
 ```
 ```
 <16.04.2022> We released the codes;
@@ -21,7 +21,7 @@ This repository is based on PyTorch 1.8.0, CUDA 11.2 and Python 3.8.10;
 ```
 git clone https://github.com/ycwu1997/MC-Net.git
 ```
-2. Put the data in './code/data';
+2. Put the data in './MC-Net/data';
 
 3. Train the model;
 ```
