@@ -47,7 +47,7 @@ If our MC-Net+ model is useful for your research, please consider citing:
         organization={Springer}
         }
       @article{wu2021enforcing,
-        title={Enforcing Mutual Consistency of Hard Regions for Semi-supervised Medical Image Segmentation},
+        title={Mutual Consistency Learning for Semi-supervised Medical Image Segmentation},
         author={Wu, Yicheng and Ge, Zongyuan and Zhang, Donghao and Xu, Minfeng and Zhang, Lei and Xia, Yong and Cai, Jianfei},
         journal={arXiv preprint arXiv:2109.09960},
         year={2021}
