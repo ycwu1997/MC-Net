@@ -15,6 +15,7 @@ This repository is for our paper: '[Mutual Consistency Learning for Semi-supervi
 
 ### Requirements
 This repository is based on PyTorch 1.8.0, CUDA 11.2 and Python 3.8.10; All experiments in our paper were conducted on a single NVIDIA Tesla V100 GPU.
+
 ### Usage
 1. Clone the repo.;
 ```
