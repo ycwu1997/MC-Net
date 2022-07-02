@@ -5,6 +5,9 @@ by Yicheng Wu, Minfeng Xu, Zongyuan Ge, Jianfei Cai*, and Lei Zhang.
 
 ### News
 ```
+<01.07.2022> Our paper entitled "Mutual Consistency Learning for Semi-supervised Medical Image Segmentation" has been accepted by Medical Image Analysis;
+```
+```
 <18.04.2022> We provided our pre-trained models on the LA, Pancreas-CT and ACDC datasets, see './MC-Net/pretrained_pth/';
 ```
 ```
@@ -50,8 +53,8 @@ If our MC-Net+ model is useful for your research, please consider citing:
       @article{wu2021enforcing,
         title={Mutual Consistency Learning for Semi-supervised Medical Image Segmentation},
         author={Wu, Yicheng and Ge, Zongyuan and Zhang, Donghao and Xu, Minfeng and Zhang, Lei and Xia, Yong and Cai, Jianfei},
-        journal={arXiv preprint arXiv:2109.09960},
-        year={2021}
+        journal={Medical Image Analysis},
+        year={2022}
         }
 
 ### Acknowledgements:
