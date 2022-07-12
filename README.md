@@ -50,11 +50,14 @@ If our MC-Net+ model is useful for your research, please consider citing:
         year={2021},
         organization={Springer}
         }
-      @article{wu2021enforcing,
+      @article{wu2022mutual,
         title={Mutual Consistency Learning for Semi-supervised Medical Image Segmentation},
         author={Wu, Yicheng and Ge, Zongyuan and Zhang, Donghao and Xu, Minfeng and Zhang, Lei and Xia, Yong and Cai, Jianfei},
         journal={Medical Image Analysis},
-        year={2022}
+        volume={81},
+        pages={102530},
+        year={2022},
+        publisher={Elsevier}
         }
 
 ### Acknowledgements:
