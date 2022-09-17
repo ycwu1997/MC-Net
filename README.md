@@ -47,6 +47,7 @@ If our MC-Net+ model is useful for your research, please consider citing:
         author={Wu, Yicheng and Xu, Minfeng and Ge, Zongyuan and Cai, Jianfei and Zhang, Lei},
         booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
         pages={297--306},
+        volume={12902},
         year={2021},
         organization={Springer}
         }
