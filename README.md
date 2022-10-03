@@ -45,11 +45,12 @@ If our MC-Net+ model is useful for your research, please consider citing:
       @inproceedings{wu2021semi,
         title={Semi-supervised left atrium segmentation with mutual consistency training},
         author={Wu, Yicheng and Xu, Minfeng and Ge, Zongyuan and Cai, Jianfei and Zhang, Lei},
-        booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+        booktitle={de Bruijne M. et al. (eds) International Conference on Medical Image Computing and Computer-Assisted Intervention, MICCAI 2021},
         pages={297--306},
         volume={12902},
         year={2021},
-        organization={Springer}
+        doi={10.1007/978-3-030-87196-3\_28},
+        organization={Springer, Cham}
         }
       @article{wu2022mutual,
         title={Mutual Consistency Learning for Semi-supervised Medical Image Segmentation},
