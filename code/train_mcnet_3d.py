@@ -223,7 +223,6 @@ if __name__ == "__main__":
                 logging.info("save model to {}".format(save_mode_path))
                 break
         if iter_num >= max_iterations:
-            net = net_factory(net_type=args.model, in_chns=1, class_num=num_classes, mode="train")
             iterator.close()
             break
     writer.close()
